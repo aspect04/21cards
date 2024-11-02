@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "deck_id": "vsft8gdx6z6y",
+    "cards": [
+      {
+        "code": "8D",
+        "image": "https://deckofcardsapi.com/static/img/8D.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/8D.svg",
+          "png": "https://deckofcardsapi.com/static/img/8D.png"
+        },
+        "value": "8",
+        "suit": "DIAMONDS"
+      },
+      {
+        "code": "2C",
+        "image": "https://deckofcardsapi.com/static/img/2C.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/2C.svg",
+          "png": "https://deckofcardsapi.com/static/img/2C.png"
+        },
+        "value": "2",
+        "suit": "CLUBS"
+      },
+      {
+        "code": "7H",
+        "image": "https://deckofcardsapi.com/static/img/7H.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/7H.svg",
+          "png": "https://deckofcardsapi.com/static/img/7H.png"
+        },
+        "value": "7",
+        "suit": "HEARTS"
+      },
+      {
+        "code": "AS",
+        "image": "https://deckofcardsapi.com/static/img/AS.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/AS.svg",
+          "png": "https://deckofcardsapi.com/static/img/AS.png"
+        },
+        "value": "ACE",
+        "suit": "SPADES"
+      }
+    ],
+    "remaining": 44
+  }

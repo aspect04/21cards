@@ -1,0 +1,13 @@
+/* back of playing card ________
+                       |        |
+                       |  ^^^^  |
+                       | ^^^^^^ |
+                       |  ^^^^  |
+                       |________|
+
+*/
+
+string spade = "\u2660";
+string hearts = "\u2665";
+string clubs = "\u2663";
+string diamond = "\u2666";
